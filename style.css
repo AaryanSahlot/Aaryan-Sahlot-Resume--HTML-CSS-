@@ -1,0 +1,93 @@
+.text_family{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(232, 90, 232);
+}
+
+/* .text-body-emphasis {
+    --bs-text-opacity: 1;
+    color: var(--bs-emphasis-color) !important;
+} */
+
+.Aaryan_Image{
+    border-radius: 200px;
+    height: 500px;
+}
+
+/* .gradient-background {
+    background: linear-gradient(300deg, #99d98c, #52b69a, #34a0a4);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  } */
+
+  .gradient-background {
+    background: linear-gradient(300deg, #d9ed92, #52b69a, #1e6091);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+
+  .row{
+    flex-direction: column;
+  }
+
+  .row-cols-lg-3>* {
+    width: 100%;
+  }
+  .feature-icon, .icon-square{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem
+  }
+  
+  .profile-img {
+    height: 100px;
+    border-radius: 50%;
+  }
+
+  .lead{
+    text-align: left;
+  }
+
+  .docomo{
+    color: #34696f;
+  }
+
+  .deshaatan{
+    color: orange;
+  }
+
+  .tindog{
+    color: black;
+  }
+
+  .abt_me{
+    display: block;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .text-center{
+    text-align: center;
+  }
+
+  .profile-img-2{
+    height: 250px;
+    border-radius: 30%;
+  }
+
+  .copyright{
+    text-align: right;
+    font-size: small;
+  }
