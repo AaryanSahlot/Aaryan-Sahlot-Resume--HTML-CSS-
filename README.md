@@ -1,5 +1,11 @@
 # Aaryan-Sahlot-Resume--HTML-CSS-
 
+I created a portfolio website using VS Code, HTML, CSS, and Bootstrap. This project serves as my online
+resume, highlighting my skills, experience, and projects. The website is designed to be visually appealing and
+user-friendly, providing a professional platform to showcase my qualifications. It demonstrates my proficiency in
+web development and my ability to create responsive, modern websites.
+Tools & technologies used: HTML and CSS, Bootstrap Website, VS Code, Web Development
+
 ![Screenshot (364)](https://github.com/AaryanSahlot/Aaryan-Sahlot-Resume--HTML-CSS-/assets/137866460/d1087781-9b41-4f1c-87dd-b7b3b070403c)
 
 ![Screenshot (365)](https://github.com/AaryanSahlot/Aaryan-Sahlot-Resume--HTML-CSS-/assets/137866460/cb234311-1aac-421f-a8bc-095c8a5840b3)
